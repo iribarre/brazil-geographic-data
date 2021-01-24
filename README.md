@@ -1,2 +1,2 @@
 # brazil-geographic-data
-Urban development in Brazil based on governmental sources, geographic data and maps. 
+Geographic data from Brazil, based on urban development, governmental sources and maps. 
